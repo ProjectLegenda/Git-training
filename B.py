@@ -9,5 +9,4 @@ class B:
         self.a.call()
 
     def run(self):
-        print("branca devb conflict")
         print("This is class B")
