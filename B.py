@@ -9,4 +9,5 @@ class B:
         self.a.call()
 
     def run(self):
+        print("DevB")
         print("This is class B")
