@@ -8,5 +8,4 @@ class A:
         self.b.run()
 
     def call(self):
-        print("branchA conflict")
         print("This is class A")
