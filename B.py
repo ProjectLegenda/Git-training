@@ -9,5 +9,5 @@ class B:
         self.a.call()
 
     def run(self):
-        print("branch devb conflict")
+        print("branc devb conflict")
         print("This is class B")
