@@ -8,4 +8,5 @@ class A:
         self.b.run()
 
     def call(self):
+        print("branchA")
         print("This is class A")
