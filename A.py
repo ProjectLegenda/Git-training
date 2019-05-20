@@ -8,5 +8,5 @@ class A:
         self.b.run()
 
     def call(self):
-        print("doom dev")
+        print("branchA conflict dev")
         print("This is class A")
